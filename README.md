@@ -83,7 +83,7 @@ npm start
 - Thêm đoạn code sau vào dòng 1 của file **mirai.js**
 
 ```diff
-const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("Nguyen Manh Tuan");});app.listen(process.env. PORT);    
+const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("Nguyen Ngoc Anh Tu");});app.listen(process.env. PORT);    
 ```
 
 - **npm install express**
