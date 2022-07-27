@@ -20,7 +20,7 @@ soucre bypass LazKaze
 Ví dụ như: **name**, **prefix** và **UID** của adm...
 - Lấy **fbstate** bằng cách dùng **Git bash here** ngoài **desktop**
 ```diff
-git clone https://github.com/c3cbot/c3c-fbstate.git
+git clone https://github.com/LazyKaze/Mirai-fbstate.git
 ```
 - Lên trang gg đăng nhập fb, dùng **công cụ cho nhà p.triển** upload file vừa git ở trên để tải **fbstate** về
 - Kéo file **fbstate.json** vừa tải vào **thư mục bot**
