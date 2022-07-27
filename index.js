@@ -65,7 +65,7 @@ axios.get("https://raw.githubusercontent.com/LazyKaze/Miraiv2-update/main/packag
     logger(res['data']['description'], "[ DESCRIPTION ]");
 });
 startBot();
-/*axios.get("https://raw.githubusercontent.com/d-jukie/miraiv2_fix/main/package.json").then((res) => {
+/*axios.get("https://raw.githubusercontent.com/LazyKaze/Miraiv2-update/main/package.json").then((res) => {
     const local = JSON.parse(readFileSync('./package.json'));
     if (semver['lt'](local.version, res['data']['version'])) {
         if (local.autoUpdate == !![]) {
