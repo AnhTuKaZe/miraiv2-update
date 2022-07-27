@@ -38,7 +38,12 @@ npm install windows-build-tools
 - Vào file bot - Sau đó **Click vào thanh địa chỉ đường dẫn tại đó** và gõ: **cmd** để mở Command Prompt trên máy tính của bạn
 - Kiểm ra xem file bot có tệp **package.json** hay ko, rồi nhập:
 ```diff
-npm install
+npm i
+```diff
+npm i sqlite3
+```
+```diff
+npm i canvas@2.9.0
 ```
 - Đợi chạy xong, nhập:
 ```diff
